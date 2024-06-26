@@ -1,0 +1,181 @@
+HDF5-DIAG: Error detected in HDF5 (1.14.3) MPI-process 0:
+  #000: H5F.c line 1060 in H5Fclose(): decrementing file ID failed
+    major: File accessibility
+    minor: Unable to close file
+  #001: H5Iint.c line 1122 in H5I_dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #002: H5Iint.c line 1077 in H5I__dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #003: H5Fint.c line 216 in H5F__close_cb(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #004: H5VLcallback.c line 4341 in H5VL_file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #005: H5VLcallback.c line 4310 in H5VL__file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #006: H5VLnative_file.c line 783 in H5VL__native_file_close(): can't close file
+    major: File accessibility
+    minor: Unable to decrement reference count
+  #007: H5Fint.c line 2375 in H5F__close(): can't close file
+    major: File accessibility
+    minor: Unable to close file
+  #008: H5Fint.c line 2573 in H5F_try_close(): problems closing file
+    major: File accessibility
+    minor: Unable to close file
+  #009: H5Fint.c line 1579 in H5F__dest(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #010: H5FD.c line 876 in H5FD_close(): close failed
+    major: Virtual File Layer
+    minor: Unable to close file
+  #011: H5FDsec2.c line 424 in H5FD__sec2_close(): unable to close file, errno = 122, error message = 'Disk quota exceeded'
+    major: Low-level I/O
+    minor: Unable to close file
+HDF5-DIAG: Error detected in HDF5 (1.14.3) MPI-process 0:
+  #000: H5F.c line 1060 in H5Fclose(): decrementing file ID failed
+    major: File accessibility
+    minor: Unable to close file
+  #001: H5Iint.c line 1122 in H5I_dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #002: H5Iint.c line 1077 in H5I__dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #003: H5Fint.c line 216 in H5F__close_cb(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #004: H5VLcallback.c line 4341 in H5VL_file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #005: H5VLcallback.c line 4310 in H5VL__file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #006: H5VLnative_file.c line 783 in H5VL__native_file_close(): can't close file
+    major: File accessibility
+    minor: Unable to decrement reference count
+  #007: H5Fint.c line 2375 in H5F__close(): can't close file
+    major: File accessibility
+    minor: Unable to close file
+  #008: H5Fint.c line 2573 in H5F_try_close(): problems closing file
+    major: File accessibility
+    minor: Unable to close file
+  #009: H5Fint.c line 1579 in H5F__dest(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #010: H5FD.c line 876 in H5FD_close(): close failed
+    major: Virtual File Layer
+    minor: Unable to close file
+  #011: H5FDsec2.c line 424 in H5FD__sec2_close(): unable to close file, errno = 122, error message = 'Disk quota exceeded'
+    major: Low-level I/O
+    minor: Unable to close file
+HDF5-DIAG: Error detected in HDF5 (1.14.3) MPI-process 0:
+  #000: H5F.c line 1060 in H5Fclose(): decrementing file ID failed
+    major: File accessibility
+    minor: Unable to close file
+  #001: H5Iint.c line 1122 in H5I_dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #002: H5Iint.c line 1077 in H5I__dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #003: H5Fint.c line 216 in H5F__close_cb(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #004: H5VLcallback.c line 4341 in H5VL_file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #005: H5VLcallback.c line 4310 in H5VL__file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #006: H5VLnative_file.c line 783 in H5VL__native_file_close(): can't close file
+    major: File accessibility
+    minor: Unable to decrement reference count
+  #007: H5Fint.c line 2375 in H5F__close(): can't close file
+    major: File accessibility
+    minor: Unable to close file
+  #008: H5Fint.c line 2573 in H5F_try_close(): problems closing file
+    major: File accessibility
+    minor: Unable to close file
+  #009: H5Fint.c line 1579 in H5F__dest(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #010: H5FD.c line 876 in H5FD_close(): close failed
+    major: Virtual File Layer
+    minor: Unable to close file
+  #011: H5FDsec2.c line 424 in H5FD__sec2_close(): unable to close file, errno = 122, error message = 'Disk quota exceeded'
+    major: Low-level I/O
+    minor: Unable to close file
+HDF5-DIAG: Error detected in HDF5 (1.14.3) MPI-process 0:
+  #000: H5F.c line 1060 in H5Fclose(): decrementing file ID failed
+    major: File accessibility
+    minor: Unable to close file
+  #001: H5Iint.c line 1122 in H5I_dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #002: H5Iint.c line 1077 in H5I__dec_app_ref(): can't decrement ID ref count
+    major: Object ID
+    minor: Unable to decrement reference count
+  #003: H5Fint.c line 216 in H5F__close_cb(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #004: H5VLcallback.c line 4341 in H5VL_file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #005: H5VLcallback.c line 4310 in H5VL__file_close(): file close failed
+    major: Virtual Object Layer
+    minor: Unable to close file
+  #006: H5VLnative_file.c line 783 in H5VL__native_file_close(): can't close file
+    major: File accessibility
+    minor: Unable to decrement reference count
+  #007: H5Fint.c line 2375 in H5F__close(): can't close file
+    major: File accessibility
+    minor: Unable to close file
+  #008: H5Fint.c line 2573 in H5F_try_close(): problems closing file
+    major: File accessibility
+    minor: Unable to close file
+  #009: H5Fint.c line 1579 in H5F__dest(): unable to close file
+    major: File accessibility
+    minor: Unable to close file
+  #010: H5FD.c line 876 in H5FD_close(): close failed
+    major: Virtual File Layer
+    minor: Unable to close file
+  #011: H5FDsec2.c line 424 in H5FD__sec2_close(): unable to close file, errno = 122, error message = 'Disk quota exceeded'
+    major: Low-level I/O
+    minor: Unable to close file
+Traceback (most recent call last):
+  File "/home/pjdiazg/21_06_24/21_06_24.py", line 3523, in <module>
+    with XDMFFile(mesh.comm, "./21_06_24/fase_6/fem_function_dot_tbr.xdmf", "w") as file_dot_tbr, \
+  File "/opt/ohpc/pub/software/Analytics/conda/envs/fenicsx-env/lib/python3.11/site-packages/dolfinx/io/utils.py", line 207, in __exit__
+    self.close()
+RuntimeError: Failed to close HDF5 file.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pjdiazg/21_06_24/21_06_24.py", line 3523, in <module>
+    with XDMFFile(mesh.comm, "./21_06_24/fase_6/fem_function_dot_tbr.xdmf", "w") as file_dot_tbr, \
+  File "/opt/ohpc/pub/software/Analytics/conda/envs/fenicsx-env/lib/python3.11/site-packages/dolfinx/io/utils.py", line 207, in __exit__
+    self.close()
+RuntimeError: Failed to close HDF5 file.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pjdiazg/21_06_24/21_06_24.py", line 3523, in <module>
+    with XDMFFile(mesh.comm, "./21_06_24/fase_6/fem_function_dot_tbr.xdmf", "w") as file_dot_tbr, \
+  File "/opt/ohpc/pub/software/Analytics/conda/envs/fenicsx-env/lib/python3.11/site-packages/dolfinx/io/utils.py", line 207, in __exit__
+    self.close()
+RuntimeError: Failed to close HDF5 file.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pjdiazg/21_06_24/21_06_24.py", line 3523, in <module>
+    with XDMFFile(mesh.comm, "./21_06_24/fase_6/fem_function_dot_tbr.xdmf", "w") as file_dot_tbr, \
+  File "/opt/ohpc/pub/software/Analytics/conda/envs/fenicsx-env/lib/python3.11/site-packages/dolfinx/io/utils.py", line 207, in __exit__
+    self.close()
+RuntimeError: Failed to close HDF5 file.
